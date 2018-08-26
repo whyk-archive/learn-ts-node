@@ -1,0 +1,13 @@
+{
+  "name": "ts-node-learn",
+  "scripts": {
+    "watch": "tsc -w",
+    "build": "tsc "
+  },
+  "dependencies": {
+    "@types/node": "^10.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
+}

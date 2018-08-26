@@ -1,0 +1,1 @@
+[ICS MEDIAの記事](https://ics.media/entry/4682)を写経しました
